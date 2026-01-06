@@ -1,4 +1,4 @@
-# Dog vs Cat Image Classification using CNN (TensorFlow)
+# Dog vs Cat Image Classification using CNN
 
 This project implements a **binary image classification system** using **Convolutional Neural Networks (CNN)** to classify images of **Dogs and Cats**.  
 The model is trained using TensorFlow/Keras and the dataset is downloaded directly from Kaggle.
@@ -11,16 +11,12 @@ The model is trained using TensorFlow/Keras and the dataset is downloaded direct
 - Structure:
 
 PetImages/
+
 ├── train/
-
 │ ├── Cat/
-
 │ └── Dog/
-
 ├── test/
-
 │ ├── Cat/
-
 │ └── Dog/
 
 
@@ -128,4 +124,4 @@ This project demonstrates:
 ## 👤 Author
 
 **Hamza Amjad**  
-
+**AI, Machine Learning, NLP & Deep Learning Enthusiast**
