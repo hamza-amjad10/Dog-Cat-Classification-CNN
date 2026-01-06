@@ -12,10 +12,15 @@ The model is trained using TensorFlow/Keras and the dataset is downloaded direct
 
 PetImages/
 ├── train/
+
 │ ├── Cat/
+
 │ └── Dog/
+
 ├── test/
+
 │ ├── Cat/
+
 │ └── Dog/
 
 
