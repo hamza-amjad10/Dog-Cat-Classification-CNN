@@ -11,13 +11,12 @@ The model is trained using TensorFlow/Keras and the dataset is downloaded direct
 - Structure:
 
 PetImages/
-
 ├── train/
-│ ├── Cat/
-│ └── Dog/
-├── test/
-│ ├── Cat/
-│ └── Dog/
+│   ├── Cat/
+│   └── Dog/
+└── test/
+    ├── Cat/
+    └── Dog/
 ---
 
 ## ⚙️ Project Workflow
