@@ -18,9 +18,6 @@ PetImages/
 ├── test/
 │ ├── Cat/
 │ └── Dog/
-
-
-
 ---
 
 ## ⚙️ Project Workflow
