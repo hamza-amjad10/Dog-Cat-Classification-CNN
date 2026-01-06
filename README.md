@@ -9,7 +9,7 @@ The model is trained using TensorFlow/Keras and the dataset is downloaded direct
 - Source: Kaggle  
 - Dataset Name: Dog and Cat Classification Dataset
 - Structure:
-
+```
 PetImages/
 ├── train/
 │   ├── Cat/
@@ -17,6 +17,7 @@ PetImages/
 └── test/
     ├── Cat/
     └── Dog/
+```
 ---
 
 ## ⚙️ Project Workflow
